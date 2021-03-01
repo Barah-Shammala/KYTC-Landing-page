@@ -5,4 +5,4 @@ html
 html 5
 css 
 css3
-[link for the live project]:
+[link for the live project]:(https://barah-shammala.github.io/KYTC-Landing-page/)
